@@ -79,6 +79,8 @@ let pb = peripherals.GPIOB.split(&mut rcu);
 
 (https://github.com/alvinhochun/gd32vf103-pinecil-demo-rs/blob/master/07-bma223/src/main.rs)
 
+(https://wiki.segger.com/SiPeed_Longan_Nano)
+
 # BL602
 
 ## Examples
