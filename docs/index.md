@@ -71,6 +71,7 @@ let pb = peripherals.GPIOB.split(&mut rcu);
         }
     }
 ```
+> from (https://github.com/alvinhochun/gd32vf103-pinecil-demo-rs) under MIT
 
 ## Links
 
