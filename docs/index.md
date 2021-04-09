@@ -11,6 +11,6 @@
 
 ## Links
 
-https://github.com/sipeed/bl602-rust-guide
+[https://github.com/sipeed/bl602-rust-guide]
 
-https://github.com/sipeed/bl602-hal
+[https://github.com/sipeed/bl602-hal]
