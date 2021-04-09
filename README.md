@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://risc-of-rust.github.io/risc-of-rust/
+
 <!--
 **risc-of-rust/risc-of-rust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
